@@ -10,15 +10,6 @@ primary:
       - text: Department of Defense
         href: /two/c/
         
-          - text: Cross Agency Priority Goals
-    links:
-      - text: Goal 1
-        href: /two/a/
-      - text: Goal 2
-        href: /two/b/
-      - text: Goal 3
-        href: /two/c/
-        
 
 footer:
   - text: Documentation
