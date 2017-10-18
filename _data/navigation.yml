@@ -3,11 +3,11 @@ primary:
     href: /docs/
   - text: Agencies
     links:
-      - text: Demo link A
+      - text: Department of Agriculture
         href: /two/a/
-      - text: Demo link B
+      - text: Department of Commerce
         href: /two/b/
-      - text: Demo link C
+      - text: Department of Defense
         href: /two/c/
 
 footer:
