@@ -1,7 +1,7 @@
 primary:
-  - text: Documentation
+  - text: About
     href: /docs/
-  - text: Navigation section
+  - text: Agencies
     links:
       - text: Demo link A
         href: /two/a/
@@ -13,9 +13,9 @@ primary:
 footer:
   - text: Documentation
     href: /docs/
-  - text: Demo link one
+  - text: Partners
     href: /one/
-  - text: Demo link two
+  - text: Initiatives
     href: /two/
 
 secondary: []
