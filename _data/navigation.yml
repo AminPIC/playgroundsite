@@ -12,11 +12,11 @@ primary:
    - text: Cross Agency Priority Goals
        links:
       - text: Cross Agency Goal 1
-        href: /goalpage/a/
+        href: /two/a/
       - text: Cross Agency Goal 2
-        href: /goalpage/b/
+        href: /two/b/
       - text: Cross Agency Goal 3
-        href: /goalpage/c/
+        href: /two/c/
         
     - text: About
     href: /docs/
