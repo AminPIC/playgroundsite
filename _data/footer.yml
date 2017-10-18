@@ -13,7 +13,8 @@ heading: Name of agency
 # An array of agency logos to show, side by side, in the lower left
 # of the footer on large screens.
 logos:
-  - src: /assets/img/us_seal.png
+  - src: /assets/img/logo-gsa.png
+  - src: /assets/img/white-house-logo.png
     alt: Your agency name
 
 contact:
