@@ -1,5 +1,6 @@
 primary:
-
+  - text: Documentation
+    href: /docs/
   - text: Agencies
     links:
       - text: Department of Agriculture
@@ -9,20 +10,14 @@ primary:
       - text: Department of Defense
         href: /two/c/
         
-   - text: Cross Agency Priority Goals
-       links:
-      - text: Cross Agency Goal 1
+          - text: Cross Agency Priority Goals
+    links:
+      - text: Goal 1
         href: /two/a/
-      - text: Cross Agency Goal 2
+      - text: Goal 2
         href: /two/b/
-      - text: Cross Agency Goal 3
+      - text: Goal 3
         href: /two/c/
-        
-    - text: About
-    href: /docs/
-    
-    - text: FAQ
-    href: /docs/
         
 
 footer:
