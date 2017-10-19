@@ -9,6 +9,10 @@ primary:
         href: /two/b/
       - text: Department of Defense
         href: /two/c/
+        -text: Department of Education
+        href: /two/d/
+        -text: Department of Energy
+        href: /two/e
         
 
 footer:
