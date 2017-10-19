@@ -6,16 +6,16 @@ layout: docs
 sidenav: docs
 
 subnav:
-  - text: Section one
+  - text: GPRAMA
     href: '#section-one'
-  - text: Section two
+  - text: Circular A-11
     href: '#section-two'
 ---
 
 # Section one
 
-This is some content.
+This  some content.
 
 # Section two
 
-This is some more content.
+This  some more content.
