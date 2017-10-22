@@ -2,15 +2,14 @@
 title: Department of Agriculture
 permalink: /agr/
 
-layout: docs
-sidenav: docs
+layout: agr
+sidenav: agr
 
-subnav: agr
 ---
 
 # Section one
 
-This  some content.
+Agriculture
 
 # Section two
 
