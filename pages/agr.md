@@ -2,7 +2,7 @@
 title: Department of Agriculture
 permalink: /agr/
 
-layout: agr
+layout: docs
 sidenav: agr
 
 ---
