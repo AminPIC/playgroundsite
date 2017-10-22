@@ -9,10 +9,10 @@ primary:
         href: /two/b/
       - text: Department of Defense
         href: /two/c/
-        -text: Department of Education
+      - text: Department of Education
         href: /two/a/
-        -text: Department of Energy
-        href: /two/b
+      - text: Department of Energy
+        href: https://sba.gov
         
 
 footer:
