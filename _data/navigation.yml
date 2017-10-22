@@ -56,6 +56,8 @@ footer:
 secondary: []
 
 docs:
+  - text: Dept of Agriculture
+    href: /agr/
   - text: Documentation
     href: /docs/
   - text: Installation
@@ -64,3 +66,7 @@ docs:
     href: /docs/upgrade/
   - text: Help
     href: /docs/help/
+
+agr:
+  - text: APG1
+    href: /agr-apg1/
