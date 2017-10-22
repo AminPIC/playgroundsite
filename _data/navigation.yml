@@ -43,7 +43,11 @@ primary:
 
 footer:
   - text: Documentation
-    href: /docs/
+    links:
+      - text: Goal1
+        href: /two/a/
+      - text: Goal2
+        href: /two/a/
   - text: Partners
     href: /one/
   - text: Initiatives
