@@ -1,8 +1,8 @@
 ---
 title: Department of Agriculture
-permalink: /deptofagriculture/
+permalink: /agr/
 
-layout: agr
+layout: docs
 sidenav: docs
 
 subnav: agr
