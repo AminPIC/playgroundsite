@@ -68,15 +68,12 @@ docs:
     href: /docs/help/
 
 agr:
-  - text: Dept of Agriculture
-    href: /agr/
-    links:
-      - text: APG1
-        href: /agr-apg1/
-      - text: APG2
-        href: /agr-apg2/
-      - text: FAQ
-        href: /faq/
+  - text: APG1
+    href: /agr-apg1/
+  - text: APG2
+    href: /agr-apg2/
+  - text: FAQ
+    href: /faq/
     
 dod:
   - text: AGP1
