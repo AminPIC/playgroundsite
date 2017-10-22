@@ -3,13 +3,9 @@ title: Department of Agriculture
 permalink: /deptofagriculture/
 
 layout: agr
-sidenav: agr
+sidenav: docs
 
-subnav:
-  - text: APG1
-    href: 'agr-apg1'
-  - text: AGR2
-    href: '#section-two'
+subnav: agr
 ---
 
 # Section one
