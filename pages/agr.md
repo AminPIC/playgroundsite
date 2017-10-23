@@ -1,9 +1,10 @@
 ---
 title: Department of Agriculture
 permalink: /agr/
-image: /assets/img/USDA-logo.png
+
 layout: docs
 sidenav: agr
+image: /assets/img/USDA-logo.png
 
 ---
 
