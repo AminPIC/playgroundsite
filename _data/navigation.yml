@@ -2,7 +2,7 @@ primary:
   - text: About
     href: /docs/
   - text: Agencies
-     links:
+    links:
       - text: Department of Agriculture
         href: /agr/
       - text: Department of Commerce
@@ -33,7 +33,6 @@ primary:
         href: /two/a/
       - text: Department of Energy
         href: https://sba.gov  
-
   - text: Cross Agency Priority Goals
     links:
       - text: Goal1
