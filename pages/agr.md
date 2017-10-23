@@ -21,7 +21,9 @@ The Department of Agriculture (USDA) provides leadership on food, agriculture, n
 ## Important Links:
 
 Agency Strategic Plan
-[ ![Agency Strateic Plan](https://raw.githubusercontent.com/AminPIC/playgroundsite/master/assets/img/document_image.png)](https://raw.githubusercontent.com/AminPIC/playgroundsite/master/assets/img/Trsy%20Strategic%20Plan%20Working%20Draft_OMBSubmission_2017-09-11.pdf) 
+
+<a href="https://raw.githubusercontent.com/AminPIC/playgroundsite/master/assets/img/Trsy%20Strategic%20Plan%20Working%20Draft_OMBSubmission_2017-09-11.pdf"
+target="_blank"><img src="https://raw.githubusercontent.com/AminPIC/playgroundsite/master/assets/img/document_image.png"/</a>
 
 Agency Plans and Reports
 <a href=[ ![Agency Plans and Reports](https://raw.githubusercontent.com/AminPIC/playgroundsite/master/assets/img/document_image.png)](https://raw.githubusercontent.com/AminPIC/playgroundsite/master/assets/img/Trsy%20Strategic%20Plan%20Working%20Draft_OMBSubmission_2017-09-11.pdf)</a>
