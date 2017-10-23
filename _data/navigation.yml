@@ -47,10 +47,10 @@ primary:
 footer:
   - text: Documentation
     links:
-           - text: Goal1
-             href: /two/a/
-           - text: Goal2
-             href: /two/a/
+      - text: Goal1
+        href: /two/a/
+      - text: Goal2
+        href: /two/a/
   - text: Partners
     href: /one/
   - text: Initiatives
