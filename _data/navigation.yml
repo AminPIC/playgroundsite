@@ -40,6 +40,9 @@ primary:
       - text: Goal2
         href: /two/a/
         
+  - text: FAQs
+    href: /docs/
+        
 
 footer:
   - text: Documentation
