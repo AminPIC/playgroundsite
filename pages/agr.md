@@ -18,4 +18,9 @@ Founded by President Abraham Lincoln in 1862, when more than half of the Nation'
 
 The Department of Agriculture (USDA) provides leadership on food, agriculture, natural resources, rural development, nutrition and related issues based on sound public policy, the best available science, and efficient management.
 
-
+graphics:
+  - image:
+      src: /assets/img/436043_original.png
+      alt: ''
+    title: The President's Management Agenda.
+    description: Graphic headings can be used a few
