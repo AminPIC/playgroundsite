@@ -1,18 +1,14 @@
 ---
 title: Department of Agriculture
 permalink: /agr/
-
+image: /assets/img/USDA_logo.png
 layout: docs
 sidenav: agr
-image: /assets/img/USDA_logo.png
+
 
 ---
 
 # The US Department of Agriculture 
-
-graphics:
-  - image:
-      src: /assets/img/USDA_logo.png
 
 ## Overview
 
@@ -20,4 +16,6 @@ Founded by President Abraham Lincoln in 1862, when more than half of the Nation'
 
 ### Mission
 
-The Department of Agriculture (USDA) provides leadership on food, agriculture, natural resources, rural development, nutrition and related issues based on sound public policy, the best available science, and efficient management..
+The Department of Agriculture (USDA) provides leadership on food, agriculture, natural resources, rural development, nutrition and related issues based on sound public policy, the best available science, and efficient management.
+
+
