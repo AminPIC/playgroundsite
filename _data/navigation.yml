@@ -1,7 +1,7 @@
 primary:
   - text: About
     href: /docs/
-   - text: Agencies
+  - text: Agencies
      links:
       - text: Department of Agriculture
         href: /agr/
